@@ -25,7 +25,7 @@ from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip, concaten
 # ------ Configuration (Hard-coded Key) ------
 ELEVENLABS_API_KEY = "sk_55bb280a58baa1308015d462f622c89e7c596727589c750f"
 
-VOICE_ID = "21m00Tcm4TlvDq8ikWAM"            # “Rachel” female voice on ElevenLabs
+VOICE_ID = "EXAVITQu4vr4xnSDxMaL"           # “Rachel” female voice on ElevenLabs
 SPOKESPERSON_IMAGE = "spokesperson.jpg"      # Static image for lip-sync
 WAV2LIP_PATH = "Wav2Lip"                     # Path to the cloned Wav2Lip repo
 OUTPUT_DIR = "output"                        # Where to save generated files
